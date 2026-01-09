@@ -27,5 +27,6 @@ Grupo de Pesquisas em Geografia de Paisagens Tropicais (PAISAGEO - UFPE), e me i
 
 ## 📫 Redes e Contato
 * [LinkedIn](https://www.linkedin.com/in/pabloguilherme/)
+* [ResearchGate](https://www.researchgate.net/profile/Pablo-Neves-2)
 * [Lattes](http://lattes.cnpq.br/0232693906809043)
-* [E-mail](11pabloguilherme@gmail.com)
+* 11pabloguilherme@gmail.com
