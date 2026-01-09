@@ -2,12 +2,12 @@ Estudande de Sistemas de Informação e Geógrafo. Tenho interesse em Ciência d
 
 ---
 
-## 🏛️ Formação Acadêmica
+## Formação Acadêmica
 * **Bacharelado em Sistemas de Informação** – Universidade Federal Rural de Pernambuco, em andamento
 * **Mestrado em Geografia** – Universidade Federal de Pernambuco, em fase final
 * **Licenciatura em Geografia** – Universidade Federal de Pernambuco, 2023
 
-## 🛠️ Stack Tecnológica
+## Stack
 
 | Categoria | Tecnologias |
 | :--- | :--- |
@@ -16,12 +16,12 @@ Estudande de Sistemas de Informação e Geógrafo. Tenho interesse em Ciência d
 | **Desenvolvimento** | Node.js, React Native, Git/GitHub |
 | **Ferramentas Geo** | QGIS, Google Earth Engine (GEE)|
 
-## 🔬 Projetos e Pesquisas
+## Projetos e Pesquisas
 > Aqui listo os principais repositórios que refletem minha atuação profissional e acadêmica:
 
 * **[KuchlerApp](https://github.com/pablonvsx/veg-inventory-kuchler-app)**:  Aplicativo desenvolvido em Python utilizando o Framework KivyMD para facilitar o levantamento e classificação fisionômica da vegetação utilizando o método de August William Kuchler.
 
-## 📫 Redes e Contato
+## Redes e Contato
 * [LinkedIn](https://www.linkedin.com/in/pabloguilherme/)
 * [ResearchGate](https://www.researchgate.net/profile/Pablo-Neves-2)
 * [Currículo Lattes](http://lattes.cnpq.br/0232693906809043)
