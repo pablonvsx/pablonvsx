@@ -1,7 +1,7 @@
 # Olá, eu sou Pablo
 
 ### 🎓 Pesquisador & Desenvolvedor
-Sou estudande de Sistemas de Informação e Geógrafo, focado em unir o rigor da pesquisa acadêmica com soluções tecnológicas eficientes. Tenho interesse em Ciências de Dados, Ciência de Dados Geoespaciais, Desenvolvimento de Ferramentas voltadas para a Pesquisa Científica. Como pesquisador faço parte do
+Sou estudande de Sistemas de Informação e Geógrafo, focado em unir o rigor da pesquisa acadêmica com soluções tecnológicas eficientes. Tenho interesse em Ciência de Dados, Ciência de Dados Geoespaciais, Desenvolvimento de Ferramentas voltadas para a Pesquisa Científica. Como pesquisador faço parte do
 Grupo de Pesquisas em Geografia de Paisagens Tropicais (PAISAGEO - UFPE), e me interesso por Biogeografia e Ciência da Paisagem.
 
 ---
