@@ -1,16 +1,31 @@
-## Hi there 👋
+# Olá, eu sou Pablo
 
-<!--
-**pablonvsx/pablonvsx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Pesquisador & Desenvolvedor
+Sou estudande de Sistemas de Informação e Geógrafo, focado em unir o rigor da pesquisa acadêmica com soluções tecnológicas eficientes. Tenho interesse em Ciências de Dados, Ciência de Dados Geoespaciais, Desenvolvimento de Ferramentas voltadas para a Pesquisa Científica. Como pesquisador faço parte do
+Grupo de Pesquisas em Geografia de Paisagens Tropicais (PAISAGEO - UFPE), e me interesso por Biogeografia e Ciência da Paisagem.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏛️ Formação Acadêmica
+* **Bacharelado em Sistemas de Informação** – Universidade Federal Rural de Pernambuco, em andamento
+* **Mestrado em Geografia** – Universidade Federal de Pernambuco, em fase final
+* **Licenciatura em Geografia** – Universidade Federal de Pernambuco, 2023
+
+## 🛠️ Stack Tecnológica
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | Python, SQL, JavaScript |
+| **Data Science** | Pandas, NumPy, Matplotlib, Scikit-learn |
+| **Desenvolvimento** | Node.js, React Native, Git/GitHub |
+| **Ferramentas Geo** | QGIS, Google Earth Engine (GEE)|
+
+## 🔬 Projetos e Pesquisas
+> Aqui listo os principais repositórios que refletem minha atuação profissional e acadêmica:
+
+* **[KuchlerApp](https://github.com/pablonvsx/veg-inventory-kuchler-app)**:  Aplicativo desenvolvido em Python utilizando o Framework KivyMD para facilitar o levantamento e classificação fisionômica da vegetação utilizando o método de August William Kuchler.
+
+## 📫 Redes e Contato
+* [LinkedIn](https://www.linkedin.com/in/pabloguilherme/)
+* [Lattes](http://lattes.cnpq.br/0232693906809043)
+* [E-mail](11pabloguilherme@gmail.com)
