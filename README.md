@@ -20,9 +20,3 @@ Estudande de Sistemas de Informação e Geógrafo. Tenho interesse em Ciência d
 > Aqui listo os principais repositórios que refletem minha atuação profissional e acadêmica:
 
 * **[KuchlerApp](https://github.com/pablonvsx/veg-inventory-kuchler-app)**:  Aplicativo desenvolvido em Python utilizando o Framework KivyMD para facilitar o levantamento e classificação fisionômica da vegetação utilizando o método de August William Kuchler.
-
-## Redes e Contato
-* [LinkedIn](https://www.linkedin.com/in/pabloguilherme/)
-* [ResearchGate](https://www.researchgate.net/profile/Pablo-Neves-2)
-* [Currículo Lattes](http://lattes.cnpq.br/0232693906809043)
-* 11pabloguilherme@gmail.com
