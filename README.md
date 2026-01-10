@@ -1,12 +1,6 @@
 Estudande de Sistemas de Informação e Geógrafo. Tenho interesse em Ciência de Dados, Ciência de Dados Geoespaciais, Desenvolvimento de Ferramentas voltadas para a Pesquisa Científica. Como pesquisador faço parte do Grupo de Pesquisas em Geografia de Paisagens Tropicais (PAISAGEO - UFPE), e me interesso por Biogeografia e Ciência da Paisagem.
 
 ---
-
-## Formação Acadêmica
-* **Bacharelado em Sistemas de Informação** – Universidade Federal Rural de Pernambuco, em andamento
-* **Mestrado em Geografia** – Universidade Federal de Pernambuco, em fase final
-* **Licenciatura em Geografia** – Universidade Federal de Pernambuco, 2023
-
 ## Stack
 
 | Categoria | Tecnologias |
