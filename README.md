@@ -5,7 +5,7 @@ Estudande de Sistemas de Informação e Geógrafo. Tenho interesse em Ciência d
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Linguagens** | Python, SQL, JavaScript |
+| **Linguagens** | Python, JavaScript, SQL|
 | **Data Science** | Pandas, NumPy, Matplotlib, Scikit-learn |
 | **Desenvolvimento** | Node.js, React Native, Git/GitHub |
 | **Ferramentas Geo** | QGIS, Google Earth Engine (GEE)|
