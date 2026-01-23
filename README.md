@@ -1,16 +1,17 @@
-Estudande de Sistemas de Informação e Geógrafo. Tenho interesse em Ciência de Dados, Ciência de Dados Geoespaciais, Desenvolvimento de Ferramentas voltadas para a Pesquisa Científica. Como pesquisador faço parte do Grupo de Pesquisas em Geografia de Paisagens Tropicais (PAISAGEO - UFPE), e me interesso por Biogeografia e Ciência da Paisagem.
+Estudande de Sistemas de Informação e Geógrafo. Interessado em Ciência de Dados, Ciência de Dados Geoespaciais, Desenvolvimento de Sistemas e Aplicações. Como pesquisador faço parte do Grupo de Pesquisas em Geografia de Paisagens Tropicais (PAISAGEO - UFPE).
 
 ---
 ## Stack
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Linguagens** | Python, JavaScript, SQL|
-| **Data Science** | Pandas, NumPy, Matplotlib, Scikit-learn |
-| **Desenvolvimento** | Node.js, React Native, Git/GitHub |
+| **Linguagens** | Python, TypeScript, JavaScript, SQL|
+| **Data Science** | Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn |
+| **Desenvolvimento** | React Native, Node.js, Git/GitHub |
 | **Ferramentas Geo** | QGIS, Google Earth Engine (GEE)|
 
 ## Projetos e Pesquisas
-> Aqui listo os principais repositórios que refletem minha atuação profissional e acadêmica:
+> Principais repositórios:
 
+* **[Well-Breathe](https://github.com/pablonvsx/well-breathe)**: Aplicação mobile fullstack para monitoramento global da qualidade do ar. Utiliza Machine Learning para classificar perfis climáticos e um motor de inferência para predição de riscos atmosféricos em tempo real.
 * **[KuchlerApp](https://github.com/pablonvsx/veg-inventory-kuchler-app)**:  Aplicativo desenvolvido em Python utilizando o Framework KivyMD para facilitar o levantamento e classificação fisionômica da vegetação utilizando o método de August William Kuchler.
