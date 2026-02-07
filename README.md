@@ -1,17 +1,19 @@
-Estudande de Sistemas de Informação e Geógrafo. Interessado em Ciência de Dados, Ciência de Dados Geoespaciais, Desenvolvimento de Sistemas e Aplicações. Como pesquisador faço parte do Grupo de Pesquisas em Geografia de Paisagens Tropicais (PAISAGEO - UFPE).
+Information Systems Student and Geographer. Interested in Data Science, Geospatial Data Science, Systems Development, and Applications. As a researcher, I am a member of the Tropical Landscape Geography Research Group (PAISAGEO - UFPE).
 
 ---
+
 ## Stack
 
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Linguagens** | Python, TypeScript, JavaScript, SQL|
+| Category | Technologies |
+| --- | --- |
+| **Languages** | Python, TypeScript, JavaScript, SQL |
 | **Data Science** | Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn |
-| **Desenvolvimento** | React Native, Node.js, Git/GitHub |
-| **Ferramentas Geo** | QGIS, Google Earth Engine (GEE)|
+| **Development** | React Native (Expo), Node.js, Git/GitHub |
+| **Geo Tools** | QGIS, Google Earth Engine (GEE)|
 
-## Projetos e Pesquisas
-> Principais repositórios:
+## Projects and Research
 
-* **[Well-Breathe](https://github.com/pablonvsx/well-breathe)**: Aplicação mobile fullstack para monitoramento global da qualidade do ar. Utiliza Machine Learning para classificar perfis climáticos e um motor de inferência para predição de riscos atmosféricos em tempo real.
-* **[KuchlerApp](https://github.com/pablonvsx/veg-inventory-kuchler-app)**:  Aplicativo desenvolvido em Python utilizando o Framework KivyMD para facilitar o levantamento e classificação fisionômica da vegetação utilizando o método de August William Kuchler.
+> Main repositories:
+
+* **[Well-Breathe](https://github.com/pablonvsx/well-breathe)**: Fullstack mobile application for global air quality monitoring. It utilizes Machine Learning to classify climate profiles and an inference engine for real-time atmospheric risk prediction.
+* **[KuchlerApp](https://github.com/pablonvsx/veg-inventory-kuchler-app)**: Python-based application developed with the KivyMD framework to streamline vegetation surveys and physiognomic classification using the August William Küchler method.
