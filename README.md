@@ -14,7 +14,7 @@ Estudante de Sistemas de Informação e Geógrafo. Interessado em Ciência de Da
 
 Principais repositórios:
 
-  * **[Nomos](https://github.com/pablonvsx/nomos)**: Aplicativo móvel desenvolvido para a coleta, validação e organização de dados de campo no Mapeamento de Paisagens. Implementa digitalmente o Protocolo Paisageo, fundamentado na Teoria dos Geossistemas, focado em proporcionar e garantir a padronização e interoperobilidade dos dados primários na Cartografia de Paisagens. Desenvolvido no âmbito do Programa de Pós-Graduação em Geografia da Universidade Federal de Pernambuco (PPGEO/UFPE).
+  * **[Nomos](https://github.com/pablonvsx/nomos)**: Aplicativo móvel desenvolvido para a coleta, validação e organização de dados de campo no Mapeamento de Paisagens. Implementa digitalmente o Protocolo Paisageo, fundamentado na Teoria dos Geossistemas e focado em proporcionar e garantir a padronização e interoperobilidade dos dados primários na Cartografia de Paisagens. Desenvolvido no âmbito do Programa de Pós-Graduação em Geografia da Universidade Federal de Pernambuco (PPGEO/UFPE).
   * **[Well-Breathe](https://github.com/pablonvsx/well-breathe)**: Aplicativo móvel Fullstack para monitoramento global da qualidade do ar. Utiliza Machine Learning para classificar perfis climáticos e um motor de inferência para a predição de riscos atmosféricos em tempo real.
   * **[KuchlerApp](https://github.com/pablonvsx/veg-inventory-kuchler-app)**: Aplicação baseada em Python desenvolvida com o framework KivyMD para otimizar levantamentos de vegetação e classificação fisionômica através do método de August William Küchler.
 
