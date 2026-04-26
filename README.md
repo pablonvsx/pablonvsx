@@ -16,7 +16,7 @@ Information Systems student and Geographer. Interested in Data Science, Geospati
 
 Main repositories:
 
-* **[Nomos](https://github.com/pablonvsx/nomos)**: <p align="justify">A mobile application developed for field data collection, validation, and organization in Landscape Mapping. It digitally implements the Paisageo Protocol, grounded in Geosystems Theory, focusing on ensuring standardization and interoperability of primary data in Landscape Cartography. Developed within the Graduate Program in Geography at the Federal University of Pernambuco (PPGEO/UFPE).</p>
+* **[Nomos](https://github.com/pablonvsx/nomos)**: <p align="justify">A mobile application developed for field data collection, validation, and organization in Landscape Mapping. It digitally implements a protocol grounded in Geosystems Theory, focusing on ensuring standardization and interoperability of primary data in Landscape Cartography. Developed within the Graduate Program in Geography at the Federal University of Pernambuco (PPGEO/UFPE).</p>
 * **[Well-Breathe](https://github.com/pablonvsx/well-breathe)**: <p align="justify">A full-stack mobile application for global air quality monitoring. It utilizes Machine Learning to classify climate profiles and an inference engine for real-time atmospheric risk prediction.</p>
 * **[KuchlerApp](https://github.com/pablonvsx/veg-inventory-kuchler-app)**: <p align="justify">A Python-based application developed with the KivyMD framework to optimize vegetation surveys and physiognomic classification using the August William Küchler method.</p>
 
